@@ -1,0 +1,4 @@
+node_modules
+```
+
+This is a basic Todo App using React, with a form to add new todos and a list to display existing todos. The app uses local storage to persist the todo data.
